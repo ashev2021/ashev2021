@@ -7,9 +7,14 @@
 Here are some ideas to get you started:
 
 - 🔭  I'm a Machine Learning/AI/LLM Engineer
-- 👯 I’m currently building AI agents.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m currently building AI agents and chatbot + RAG
+- 💬 I am interested in LLM, ML, autonomous systems, Generative models..
+- ⚡ Fun fact: I have two MSc in different fields of engineering (Intelligent sytems + control theory)
 
+# 🖥 Skills
+- LLM (Large Language Models) & RAG
+- Machine Learning
+- NLP
+- AI application in engineering
+- Linear Algebra
+- Smart grids and Robotics
