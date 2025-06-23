@@ -9,7 +9,7 @@
 - 🔭  I'm a Machine Learning/AI/LLM Engineer
 - 🤔 I’m currently building AI agents and chatbot + RAG
 - 💬 I am interested in LLM, ML, autonomous systems, Generative models..
-- 👯  I’m looking to collaborate on LLM projects
+- 👯  I’m looking to collaborate on innovative LLM and agent-based projects
 - ⚡ I have two MSc in different fields of engineering (Intelligent sytems + control theory)
 - 🌱Outside of work: 🌲 hiking, 🚴 biking, 💻 building new apps (MVP) for myself, Watching comedy series 😂
 
